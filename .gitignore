@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Archivos generados / temporales
+*.pdf
+test_salida.pdf
+
+# Sistema
+.DS_Store
+Thumbs.db
